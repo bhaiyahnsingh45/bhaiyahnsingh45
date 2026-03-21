@@ -338,5 +338,5 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
 ---
 
 <div align="center">
-  <p>© 2025 All rights reserved <strong>Bhaiya & Company</strong></p>
+  <p>© 2026 All rights reserved <strong>Bhaiya & Company</strong></p>
 </div>
